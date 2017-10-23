@@ -1,0 +1,12 @@
+{
+  "name": "CordovaYoutubeVideoPlayer",
+  "version": "1.0.1",
+  "cordova": {
+    "id": "CordovaYoutubeVideoPlayer",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "Open YouTube video in app"
+}
